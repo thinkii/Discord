@@ -1,0 +1,6 @@
+.vc-notification-root {
+  background-color: #248046 !important;
+}
+.vc-notification-close-btn {
+  color: white !important;
+}
