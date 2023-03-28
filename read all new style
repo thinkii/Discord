@@ -1,0 +1,10 @@
+.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeMin-3Yqxk5.grow-2T4nbg {
+    border-radius: 10px;
+    font-size: 10px;
+    margin-left: 12px !important;
+    text-transform: lowercase;
+}
+
+.contents-3NembX {
+    padding: 0 4px 0 4px;
+}
