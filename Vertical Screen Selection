@@ -1,0 +1,14 @@
+.sourceContainer-1uqUbz {
+    flex-direction: column;
+}
+.sourceName-3Wf8QG {
+    width: unset;
+}
+.tile-3POX2m > .flex-2S1XBF {
+    flex-direction: row;
+    justify-content: start;
+}
+.tile-3POX2m > .flex-2S1XBF > .flex-2S1XBF {
+    flex: unset !important;
+    margin-right: 16px;
+}
